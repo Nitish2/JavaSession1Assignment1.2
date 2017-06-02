@@ -1,0 +1,13 @@
+Q Differentiate Between JVM, JDK and JRE ?
+Ans.
+JDK:- JDK refers to "Java development kit" which provides all the tools and libaries to the developer to compile and execute
+a java program.
+JDK contains JRE and java complier.JDK is platform independent therefore there are different installers to various platform.
+
+
+JVM:- JVM refers to "Java virtual machine " .It converts byte code into machine language code 
+and it runs any compiled code on any platform.
+
+
+JRE:- JRE refers to " Java runtime enviorment ". It provides platform to execute java programs. We need JRE to run a java program
+instead of java development tools or JDK .
